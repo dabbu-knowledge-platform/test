@@ -1,6 +1,0 @@
-This is an article on finding non-ASCII characters on Baeldung
-日本人 中國的 ~=[]()%+{}@;’#!$_&-  éè  ;∞¥₤€
-We hopè you find it inform@tiv€
-Thank You!
-
-PS where did file 2 go
